@@ -9,6 +9,8 @@ import java.util.stream.Collectors;
  * Date: 16/04/25
  */
 
+// Output - {false=[1, 5, 3, 7], true=[8, 2, 6]}
+
 public class CollectorsPartitioningByDemo {
 	public static void main(String[] args) {
 		List<Integer> list = List.of(1, 5, 3, 7, 8, 2, 6);

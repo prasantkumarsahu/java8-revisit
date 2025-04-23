@@ -8,6 +8,8 @@ import java.util.stream.Collectors;
  * Date: 14/04/25
  */
 
+// Output - [apple, banana, cherry]
+
 public class CollectorsJoiningDemo {
 	public static void main(String[] args) {
 		List<String> list = List.of("apple", "banana", "cherry");

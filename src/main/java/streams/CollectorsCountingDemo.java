@@ -8,6 +8,8 @@ import java.util.stream.Collectors;
  * Date: 16/04/25
  */
 
+// Output - 3
+
 public class CollectorsCountingDemo {
 	public static void main(String[] args) {
 		List<String> list = List.of("apple", "banana", "cherry");

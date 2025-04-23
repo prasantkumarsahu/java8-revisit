@@ -9,6 +9,10 @@ import java.util.stream.Collectors;
  * Date: 14/04/25
  */
 
+// Output -
+// Angul : Sipun,
+// Bangalore : Prasant, Kalia,
+
 public class CollectorsGroupingByDemo {
 	public static void main(String[] args) {
 		List<Person> users = List.of(

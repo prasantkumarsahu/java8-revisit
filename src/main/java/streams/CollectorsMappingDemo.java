@@ -8,6 +8,8 @@ import java.util.stream.Collectors;
  * Date: 16/04/25
  */
 
+// Output - [5, 6, 6]
+
 public class CollectorsMappingDemo {
 	public static void main(String[] args) {
 		List<String> fruits = List.of("apple", "banana", "cherry");
